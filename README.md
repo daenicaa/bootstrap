@@ -4,4 +4,4 @@ Beginner Level
 
 ### Requirements
  - [bootstrap](https://getbootstrap.com/docs/3.3/)
- - [JQuery](http://api.jqueryui.com/)
+ - [JQuery](https://code.jquery.com/)
